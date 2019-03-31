@@ -1,0 +1,66 @@
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe.config
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.pdb
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csprojResolveAssemblyReference.cache
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form1.resources
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Properties.Resources.resources
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.GenerateResource.Cache
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.exe
+c:\users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.pdb
+C:\Users\samet\documents\visual studio 2012\Projects\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form2.resources
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe.config
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.exe
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.pdb
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.pdb
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form1.resources
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form2.resources
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Properties.Resources.resources
+C:\Users\Pc\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.GenerateResource.Cache
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe.config
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.exe
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.pdb
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.pdb
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csprojResolveAssemblyReference.cache
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form1.resources
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form2.resources
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Properties.Resources.resources
+C:\Users\samet\Desktop\LightPhotoshop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.GenerateResource.Cache
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe.config
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.exe
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.pdb
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.pdb
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csprojResolveAssemblyReference.cache
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form1.resources
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form2.resources
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Properties.Resources.resources
+C:\Users\samet\Desktop\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.GenerateResource.Cache
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csprojAssemblyReference.cache
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.exe
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.pdb
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe.config
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.pdb
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form1.resources
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form2.resources
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Properties.Resources.resources
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.GenerateResource.cache
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.CoreCompileInputs.cache
+F:\Bilgisayar Yedek Eylül\Programlama\140202037_150202121\140202037_150202121\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.CopyComplete
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe.config
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.exe
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\bin\Debug\LightPhotoshop.pdb
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csprojAssemblyReference.cache
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form1.resources
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Form2.resources
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.Properties.Resources.resources
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.GenerateResource.cache
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.CoreCompileInputs.cache
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.csproj.CopyComplete
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.exe
+C:\Users\Samet PC\Desktop\LightPhotoshop\LightPhotoshop\obj\Debug\LightPhotoshop.pdb
