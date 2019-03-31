@@ -5,7 +5,7 @@ Photo editor, RGB and greyscale histogram, inverting and mirroring
 
 ![Open](https://github.com/SametKoca/Basic-Photo-Editor/blob/master/images/menu.jpg)
 
-**Effects**
+## Effects
 
 
 **Inverting**
@@ -28,7 +28,7 @@ Photo editor, RGB and greyscale histogram, inverting and mirroring
 
 ![Open](https://github.com/SametKoca/Basic-Photo-Editor/blob/master/images/Greyscale.png)
 
-**Channels**
+## Channels
 
 **Red Channel**
 
@@ -42,7 +42,7 @@ Photo editor, RGB and greyscale histogram, inverting and mirroring
 
 ![Open](https://github.com/SametKoca/Basic-Photo-Editor/blob/master/images/Blue_channel.png)
 
-**Histograms**
+## Histograms
 
 **RGB Histogram**
 
@@ -63,6 +63,8 @@ Photo editor, RGB and greyscale histogram, inverting and mirroring
 **Grey Histogram**
 
 ![Open](https://github.com/SametKoca/Basic-Photo-Editor/blob/master/images/Histogram_grey.png)
+
+## And
 
 **Zoom In**
 
